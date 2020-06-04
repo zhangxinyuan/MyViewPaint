@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <array name="colors_ball">
+        <item>#ff2221</item>
+        <item>#22ff11</item>
+        <item>#11ffff</item>
+        <item>#ff11ff</item>
+        <item>#334211</item>
+        <item>#1f111f</item>
+    </array>
+</resources>
